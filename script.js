@@ -3,3 +3,5 @@ function redirectToLogin() {
 }
 function redirectToHome() {
   window.location.href = "index.html";
+function redirectToCreate() {
+  window.location.href= "creating.html";
