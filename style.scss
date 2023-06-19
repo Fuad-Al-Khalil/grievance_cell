@@ -60,6 +60,8 @@ header{
             font-weight: 900;
             color: $white;
             font-size: 25px;
+            &:hover{
+                box-shadow: 4px 4px 8px $shadow;
         }
 
         ul{
